@@ -1,1 +1,15 @@
 /* your code */
+table{
+	
+	border:1px solid black;
+	border-collapse:collapse;
+	border-radius:100px;
+	
+}
+th{
+	background-color:blue;
+}
+tr:nth-child(odd){
+	background-color:white;
+}
+
